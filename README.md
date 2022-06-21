@@ -1,7 +1,7 @@
 # OSM-Map-Mod
 Just a userscript that adds a few buttons to change the look from the OSM-Map with CSS-Filters
 # Installation 
-Install a userscript manager, eg. [Tampermonkey](https://www.tampermonkey.net/) in your browser. Click [here] (https://github.com/arnesetzer/OSM-Map-Mod/raw/main/osm_map_mod.user.js) for an auto installation or create a new userscript and copy the .user.js into your userscript manager.
+Install a userscript manager, eg. [Tampermonkey](https://www.tampermonkey.net/) in your browser. Click [here](https://github.com/arnesetzer/OSM-Map-Mod/raw/main/osm_map_mod.user.js) for an auto installation or create a new userscript and copy the .user.js into your userscript manager.
 
 # Preview
 ![grafik](https://user-images.githubusercontent.com/25772747/155087512-cf2a2a3c-95b6-4b6c-9173-556a803e610d.png)
